@@ -1,7 +1,3 @@
-Creating a Markdown (MD) description for your GitHub repository where your script `goprolrvthm.py` is hosted will help others understand what the script does, how to use it, and how to contribute. Below is a template you can use and modify according to your project's specifics. This template includes sections commonly found in GitHub project READMEs, such as a project title, description, installation instructions, usage, contributing guidelines, and license information.
-
----
-
 # GoProLRVTHM Cleaner
 
 A simple utility script to delete `.THM` and `.LRV` files from GoPro camera folders to free up space. This script can be run directly in Python or as an executable to quickly clean up specified directories or the directory it resides in.
@@ -44,7 +40,7 @@ After converting to an executable:
 ```
 ./goprolrvthm.exe [folder_path]
 ```
-Download exe file from dist folder, make a use of the bat example as well. 
+Download exe file from dist folder, make use of the bat example as well. 
 
 ### With a Batch File
 
@@ -57,6 +53,7 @@ path\to\goprolrvthm.exe "F:\DCIM\100GOPRO"
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+0. Hit STAR to this project
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
